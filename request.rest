@@ -1,0 +1,11 @@
+post http://localhost:3000/add
+content-type: application/json
+
+{
+    "name" : "andzrzej",
+    "telephone" : "123456789",
+    "email" : "wp@pl",
+    "topic" : "temat",
+    "description" : "opis"
+
+}
